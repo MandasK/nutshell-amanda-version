@@ -59,6 +59,7 @@ OR if you have already created an account, enter a valid username and password i
 
 * To create a new task enter the name of the task in the task input field, and provide a date you would like the task to be completed by then select "Submit" to save it.
 * To delete an event, select the "Remove" button.
+* Once a user has completed a task they can mark the "check when Complete" button, and the task will be removed from the list.
 
 ## How to use Events
 
