@@ -4,8 +4,11 @@ Your life in a nutshell!
 
 ## Team
 Brett Derrington
+
 Amanda King -- Messages
+
 Faith Magras -- Tasks
+
 James Su Shum -- Events
 
 The team worked together to create the registration/login page.
